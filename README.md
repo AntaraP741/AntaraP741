@@ -37,7 +37,7 @@ I'm a final-year engineering student with a strong interest in **software engine
 
 ## 📂 Selected Work
 
-- **Payments Funnel Analysis (Stripe-style case)**  
+- **Payments Funnel Analysis**  
   Analyzed transaction failures across authentication, authorization, and settlement stages using SQL and Python to quantify revenue leakage and propose fixes.
 
 - **Config-Driven Data Validation Module**  
@@ -48,20 +48,7 @@ I'm a final-year engineering student with a strong interest in **software engine
 
 ---
 
-## 🎯 What You Can Expect From Me
-
-- Strong fundamentals  
-- No hand-waving — I prefer precise, defensible solutions  
-- Willingness to learn fast and go deep  
-- Clear communication, especially on technical decisions
-
----
-
 ## 📫 Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/antara-prasad-156788266/  
 - Email: antaraprasad2017@gmail.com
-
----
-
-⭐ If you find my work useful, feel free to star or fork.  
