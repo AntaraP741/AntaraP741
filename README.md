@@ -1,6 +1,6 @@
 # Hi, I'm Antara 👋
 
-I'm a final-year engineering student with a strong interest in **software engineering, data engineering, data analytics and applied machine learning**. I like building things end-to-end — from clean data pipelines to production-ready code — and I care a lot about correctness, performance, and clarity.
+I'm a final-year engineering student with a strong interest in **software engineering, data engineering, data analytics and applied machine learning**. I like building things end-to-end from clean data pipelines to production-ready code and I care a lot about correctness, performance, and clarity.
 
 ---
 
